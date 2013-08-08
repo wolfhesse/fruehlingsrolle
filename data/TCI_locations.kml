@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+  <name>TCI locations</name>
+  <description><![CDATA[
+http://maps.google.com/maps/ms?f=q&hl=en&geocode=&ie=UTF8&msa=0&msid=100007393397947022864.00044cd61f632bdfad625&ll=21.435094,-71.148641&spn=0.011225,0.017681&t=h&z=16&output=kml
+      ]]></description>
+  <NetworkLink>
+    <Url>
+      <name>TCI locations (20100817)</name>
+      <href>http://maps.google.com/maps/ms?f=q&amp;hl=en&amp;geocode=&amp;jsv=110a&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=100007393397947022864.00044cd61f632bdfad625&amp;output=kml</href>
+    </Url>
+  </NetworkLink>
+</Document>
+</kml>
+

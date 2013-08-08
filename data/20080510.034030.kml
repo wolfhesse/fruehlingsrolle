@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+  <name>TCI locations</name>
+  <description><![CDATA[]]></description>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <LineStyle>
+      <color>73FF0000</color>
+      <width>5</width>
+    </LineStyle>
+  </Style>
+  <Placemark>
+    <name>21.435100, -71.148300</name>
+    <description><![CDATA[<span>+21° 26' 6.36", -71° 8' 53.88"</span><br>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-71.148300,21.435101,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>bbox demo</name>
+    <description><![CDATA[<div dir="ltr">map of parcel Parcel Nr. 00, Block 1,<br>Section North East Suburbs (101)<br>on Island Grand Turk / Salt Key<br>Location (Lat/Long): 21.4351 / -71.1483</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -71.148224,21.435074,0.000000
+        -71.148605,21.434824,0.000000
+        -71.148834,21.435123,0.000000
+        -71.148354,21.435493,0.000000
+        -71.148224,21.435074,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+</Document>
+</kml>
